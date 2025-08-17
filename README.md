@@ -1,41 +1,38 @@
-# Devin - Digital Agency Bootstrap Template
+# Digital Agency Website
 
-A modern and responsive website template built with **Bootstrap 5**.  
-This project is designed for digital agencies, startups, and businesses that want to showcase their services, portfolio, and team in a professional way.
+This is a fully responsive website that I built from scratch using **HTML, CSS, and JavaScript**.  
+The project is designed for a digital agency or business that wants to showcase its services, portfolio, and team in a modern and professional way.
 
 ---
 
 ## 🚀 Features
-- Responsive design (works on all devices)
-- Built with **Bootstrap 5**
+- Clean and responsive design (mobile, tablet, desktop)
+- Modern header with navigation menu + dropdown
 - Hero section with call-to-action
-- Clients logos slider
-- About company with statistics
+- Clients section with logo slider
+- About section with key statistics
 - Services section (6 service cards)
 - Features highlights (workflow, analytics, security, teamwork)
 - Portfolio with category filter
-- Work process (step-by-step)
-- Tabs for strengths (Innovation, Strategy, Performance, Integration)
-- Testimonials slider
+- Work process (4 steps)
+- Tabs section for strengths (Innovation, Strategy, Performance, Integration)
+- Testimonials with slider
 - Pricing plans
 - FAQ accordion
-- Team members section
-- Contact form + details
-- Footer with newsletter & social links
+- Team members showcase
+- Contact form with validation
+- Footer with newsletter & social media links
 
 ---
 
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- Bootstrap 5  
-- JavaScript (Vanilla + libraries for sliders & animations)
+- **HTML5** for structure  
+- **CSS3 (Flexbox, Grid, Animations)** for styling  
+- **JavaScript (Vanilla)** for interactivity and dynamic components  
 
 ---
 
 ## 📂 Project Structure
-
-
 
 
 ---
